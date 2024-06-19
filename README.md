@@ -53,12 +53,3 @@ A social media platform built using the MERN stack (MongoDB, Express, React, Nod
     npm start
     ```
 
-## Usage
-
-1. Open your browser and go to `http://localhost:3000`.
-2. Register a new user or login with existing credentials.
-3. Start posting content, liking, commenting, and chatting with other users.
-
-## License
-
-This project is licensed under the MIT License.
